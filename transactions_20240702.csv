@@ -1,0 +1,11 @@
+customer_id,name,debit_card_number,debit_card_type,bank_name,transaction_date,amount_spend
+6196455639,John Doe,8099-3156-8285-9000,Visa,PNC,2024-07-02,72.04
+6196455639,John Doe,8099-3156-8285-9000,Visa,PNC,2024-07-02,67.54
+4813327467,Sarah Lee,8536-8678-2350-4511,Mastercard,Wells Fargo,2024-07-02,67.64
+4813327467,Sarah Lee,8536-8678-2350-4511,Mastercard,Wells Fargo,2024-07-02,42.44
+5440575296,David Miller,7028-9900-6101-3236,Mastercard,Citibank,2024-07-02,54.02
+6196455639,John Doe,8099-3156-8285-9000,Visa,PNC,2024-07-02,97.52
+3245345846,Jane Smith,8882-9802-6693-2144,Visa,Citibank,2024-07-02,65.35
+5440575296,David Miller,7028-9900-6101-3236,Mastercard,Citibank,2024-07-02,69.29
+5440575296,David Miller,7028-9900-6101-3236,Mastercard,Citibank,2024-07-02,44.49
+4813327467,Sarah Lee,8536-8678-2350-4511,Mastercard,Wells Fargo,2024-07-02,76.13
